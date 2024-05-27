@@ -16,6 +16,9 @@ Esto no es una guía, solo es un tip para editar más rápido el JSON de las rel
 3. Copialo de nuevo
 4. Pégalo directamente en la página y se actualizará completamente, no necesitas seleccionar nada, ni siquiera necesitas estar en el textarea, simplemente lo pegas y se modificará el valor del textarea y actualizará los valores en la matriz.
 
+> [!TIP]
+> Puedes usar los valores en el archivo `relations.json` ([clic acá para verlo](./src/lib/relations.json))
+
 ## Instrucciones para correr el proyecto localmente
 
 1. Clonar el repositorio
