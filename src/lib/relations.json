@@ -1,0 +1,189 @@
+{
+	"1": {
+		"2": { "razon": 1, "proximidad": "A" },
+		"3": { "razon": 1, "proximidad": "O" },
+		"4": { "razon": 4, "proximidad": "U" },
+		"5": { "razon": 4, "proximidad": "U" },
+		"6": { "razon": 2, "proximidad": "X" },
+		"7": { "razon": 4, "proximidad": "U" },
+		"8": { "razon": 4, "proximidad": "U" },
+		"9": { "razon": 4, "proximidad": "O" },
+		"10": { "razon": 4, "proximidad": "U" },
+		"11": { "razon": 4, "proximidad": "U" },
+		"12": { "razon": 4, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "X" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 4, "proximidad": "U" }
+	},
+	"2": {
+		"3": { "razon": 1, "proximidad": "O" },
+		"4": { "razon": 4, "proximidad": "U" },
+		"5": { "razon": 4, "proximidad": "U" },
+		"6": { "razon": 2, "proximidad": "X" },
+		"7": { "razon": 4, "proximidad": "U" },
+		"8": { "razon": 4, "proximidad": "U" },
+		"9": { "razon": 4, "proximidad": "O" },
+		"10": { "razon": 4, "proximidad": "U" },
+		"11": { "razon": 4, "proximidad": "U" },
+		"12": { "razon": 4, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "X" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 4, "proximidad": "U" }
+	},
+	"3": {
+		"4": { "razon": 4, "proximidad": "O" },
+		"5": { "razon": 1, "proximidad": "O" },
+		"6": { "razon": 1, "proximidad": "O" },
+		"7": { "razon": 4, "proximidad": "U" },
+		"8": { "razon": 4, "proximidad": "U" },
+		"9": { "razon": 4, "proximidad": "O" },
+		"10": { "razon": 4, "proximidad": "U" },
+		"11": { "razon": 4, "proximidad": "U" },
+		"12": { "razon": 4, "proximidad": "U" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "X" },
+		"15": { "razon": 4, "proximidad": "U" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "U" },
+		"18": { "razon": 1, "proximidad": "O" }
+	},
+	"4": {
+		"5": { "razon": 3, "proximidad": "O" },
+		"6": { "razon": 2, "proximidad": "X" },
+		"7": { "razon": 2, "proximidad": "X" },
+		"8": { "razon": 2, "proximidad": "X" },
+		"9": { "razon": 2, "proximidad": "X" },
+		"10": { "razon": 4, "proximidad": "I" },
+		"11": { "razon": 3, "proximidad": "I" },
+		"12": { "razon": 4, "proximidad": "O" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "XX" },
+		"15": { "razon": 2, "proximidad": "X" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "XX" },
+		"18": { "razon": 3, "proximidad": "O" }
+	},
+	"5": {
+		"6": { "razon": 2, "proximidad": "X" },
+		"7": { "razon": 2, "proximidad": "XX" },
+		"8": { "razon": 2, "proximidad": "X" },
+		"9": { "razon": 4, "proximidad": "O" },
+		"10": { "razon": 3, "proximidad": "I" },
+		"11": { "razon": 3, "proximidad": "O" },
+		"12": { "razon": 2, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "XX" },
+		"15": { "razon": 2, "proximidad": "X" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 3, "proximidad": "O" }
+	},
+	"6": {
+		"7": { "razon": 2, "proximidad": "X" },
+		"8": { "razon": 2, "proximidad": "X" },
+		"9": { "razon": 2, "proximidad": "X" },
+		"10": { "razon": 4, "proximidad": "O" },
+		"11": { "razon": 4, "proximidad": "U" },
+		"12": { "razon": 2, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "XX" },
+		"14": { "razon": 2, "proximidad": "XX" },
+		"15": { "razon": 2, "proximidad": "X" },
+		"16": { "razon": 2, "proximidad": "E" },
+		"17": { "razon": 3, "proximidad": "I" },
+		"18": { "razon": 4, "proximidad": "O" }
+	},
+	"7": {
+		"8": { "razon": 2, "proximidad": "X" },
+		"9": { "razon": 2, "proximidad": "O" },
+		"10": { "razon": 4, "proximidad": "U" },
+		"11": { "razon": 2, "proximidad": "X" },
+		"12": { "razon": 3, "proximidad": "E" },
+		"13": { "razon": 4, "proximidad": "O" },
+		"14": { "razon": 4, "proximidad": "O" },
+		"15": { "razon": 4, "proximidad": "U" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 2, "proximidad": "X" }
+	},
+	"8": {
+		"9": { "razon": 4, "proximidad": "O" },
+		"10": { "razon": 4, "proximidad": "U" },
+		"11": { "razon": 2, "proximidad": "X" },
+		"12": { "razon": 2, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "X" },
+		"14": { "razon": 2, "proximidad": "XX" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "U" },
+		"17": { "razon": 3, "proximidad": "I" },
+		"18": { "razon": 2, "proximidad": "X" }
+	},
+	"9": {
+		"10": { "razon": 2, "proximidad": "X" },
+		"11": { "razon": 4, "proximidad": "O" },
+		"12": { "razon": 4, "proximidad": "O" },
+		"13": { "razon": 4, "proximidad": "O" },
+		"14": { "razon": 4, "proximidad": "O" },
+		"15": { "razon": 3, "proximidad": "X" },
+		"16": { "razon": 4, "proximidad": "U" },
+		"17": { "razon": 4, "proximidad": "U" },
+		"18": { "razon": 4, "proximidad": "O" }
+	},
+	"10": {
+		"11": { "razon": 3, "proximidad": "E" },
+		"12": { "razon": 4, "proximidad": "O" },
+		"13": { "razon": 2, "proximidad": "U" },
+		"14": { "razon": 2, "proximidad": "X" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 4, "proximidad": "U" },
+		"17": { "razon": 3, "proximidad": "O" },
+		"18": { "razon": 4, "proximidad": "O" }
+	},
+	"11": {
+		"12": { "razon": 2, "proximidad": "X" },
+		"13": { "razon": 2, "proximidad": "XX" },
+		"14": { "razon": 2, "proximidad": "XX" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 4, "proximidad": "U" }
+	},
+	"12": {
+		"13": { "razon": 4, "proximidad": "I" },
+		"14": { "razon": 4, "proximidad": "I" },
+		"15": { "razon": 3, "proximidad": "E" },
+		"16": { "razon": 2, "proximidad": "I" },
+		"17": { "razon": 2, "proximidad": "XX" },
+		"18": { "razon": 4, "proximidad": "U" }
+	},
+	"13": {
+		"14": { "razon": 4, "proximidad": "O" },
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "XX" },
+		"18": { "razon": 2, "proximidad": "X" }
+	},
+	"14": {
+		"15": { "razon": 4, "proximidad": "O" },
+		"16": { "razon": 2, "proximidad": "I" },
+		"17": { "razon": 2, "proximidad": "XX" },
+		"18": { "razon": 2, "proximidad": "X" }
+	},
+	"15": {
+		"16": { "razon": 4, "proximidad": "O" },
+		"17": { "razon": 2, "proximidad": "X" },
+		"18": { "razon": 2, "proximidad": "X" }
+	},
+	"16": {
+		"17": { "razon": 2, "proximidad": "O" },
+		"18": { "razon": 4, "proximidad": "O" }
+	},
+	"17": {
+		"18": { "razon": 2, "proximidad": "X" }
+	}
+}
